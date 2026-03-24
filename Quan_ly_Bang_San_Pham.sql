@@ -50,5 +50,3 @@ select *
 from products
 order by price desc
 limit 2;
-
-delete from products;
