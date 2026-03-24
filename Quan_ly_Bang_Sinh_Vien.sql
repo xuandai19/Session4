@@ -47,5 +47,3 @@ where full_name like 'Nguyễn%';
 select *
 from students
 where birth_year between 2001 and 2003;
-
-delete from products;
