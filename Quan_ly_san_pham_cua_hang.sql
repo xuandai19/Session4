@@ -47,5 +47,3 @@ from products
 order by price desc
 --limit 2;
 limit 2 offset 1;
-
-delete from students;
